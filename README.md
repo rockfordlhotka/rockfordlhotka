@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [CSLA .NET](https://cslanet.com)
 - 🌱 I’m currently learning all sorts of stuff! Mostly Kubernetes and Blazor
 - 🤔 I’m looking for help with [CSLA .NET](https://cslanet.com)
-- 💬 Ask me about [Magenic](https://magenic.com)
 - 📫 How to reach me: https://about.me/rockfordlhotka
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ethiopian food
