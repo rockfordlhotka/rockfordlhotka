@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏢 I am VP of Strategy at [Xebia](https://xebia.com)
-- 👨‍💻 I am Chief Software Architect at [Marimer LLC](https://lhotka.net)
+- 👨‍💻 I am Chief Software Architect at [Marimer LLC](https://github.com/MarimerLLC)
 - 🌱 I’m currently learning all sorts of stuff! Mostly Kubernetes and Blazor
 - 🔭 I’m currently working on [CSLA .NET](https://cslanet.com)
 - 🤔 I’m looking for help with [CSLA .NET](https://cslanet.com)
